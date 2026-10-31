@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Face Detection and Recognition System (Python & MATLAB)"
+abstract: "Desktop application for face enrollment by camera or photo, live multi-face recognition and a time-stamped sighting log, plus stand-alone face detectors, in Python and MATLAB."
+type: software
+authors:
+  - family-names: Palta
+    given-names: Olcay
+    orcid: "https://orcid.org/0000-0002-7496-2101"
+    affiliation: "Bitlis Eren University, Electronics and Automation"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-31"
+repository-code: "https://github.com/olcaypalta/face-detection"
+keywords:
+  - face detection
+  - face recognition
+  - YuNet
+  - SFace
+  - Viola-Jones
+  - OpenCV
+  - MATLAB
+  - attendance

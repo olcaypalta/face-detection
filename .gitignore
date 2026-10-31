@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.asv
+slprj/
+.DS_Store
+python/database/
+matlab/database/
+python/models/
+result.jpg
